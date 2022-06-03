@@ -1,4 +1,6 @@
-package com.calculadoraios;
+//package com.calculadoraios;
+
+package com.jhoncar7.calculadora.rn.ios.dev;
 
 import android.os.Bundle;
 

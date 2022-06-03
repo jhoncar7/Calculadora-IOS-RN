@@ -4,7 +4,8 @@
  * <p>This source code is licensed under the MIT license found in the LICENSE file in the root
  * directory of this source tree.
  */
-package com.calculadoraios;
+//package com.calculadoraios;
+package com.jhoncar7.calculadora.rn.ios.dev;
 
 import android.content.Context;
 import com.facebook.flipper.android.AndroidFlipperClient;

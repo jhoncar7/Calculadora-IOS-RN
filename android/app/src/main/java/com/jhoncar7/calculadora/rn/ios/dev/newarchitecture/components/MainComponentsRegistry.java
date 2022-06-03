@@ -1,4 +1,5 @@
-package com.calculadoraios.newarchitecture.components;
+//package com.calculadoraios.newarchitecture.components;
+package com.jhoncar7.calculadora.rn.ios.dev.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
